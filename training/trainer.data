@@ -1,7 +1,7 @@
 classes=4
-train= train.txt
-valid= test.txt
-names= object.names
+train= /home/thecaffeinedev/Desktop/Blog/Code/YoloV3-Custom-Object-Detection/training/train.txt # put your own path here
+valid= /home/thecaffeinedev/Desktop/Blog/Code/YoloV3-Custom-Object-Detection/training/test.txt # put your own path here
+names= /home/thecaffeinedev/Desktop/Blog/Code/YoloV3-Custom-Object-Detection/training/object.names # put your own path here
 backup= backup/
 eval=coco
 
