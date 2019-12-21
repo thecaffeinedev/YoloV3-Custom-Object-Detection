@@ -1,8 +1,7 @@
 classes=4
-train= /home/frolic/yolov3/training/train.txt
-valid= /home/frolic/yolov3/training/test.txt
-names= /home/frolic/yolov3/training/object.names
-backup= /home/frolic/yolov3/training/backup/
-cfg= /home/frolic/yolov3/cfg/yolov3.cfg
+train= train.txt
+valid= test.txt
+names= object.names
+backup= backup/
 eval=coco
 
