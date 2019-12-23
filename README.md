@@ -4,7 +4,7 @@
 
 
 
-This repository contains to code train your own custom object detector using YOLOv3 
+This repository contains to code train your own custom object detector using YOLOv3. I have used the code of [Ultralytics](https://github.com/ultralytics/yolov3) to train the mode. Make sure to check their repository also. It's great. I have made some changes in the folder structure and in some codes to train my own model.  
 
 I have posted a tutorial guide on my blog and in medium platform also to train your own model. Here's the link:
 
