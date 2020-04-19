@@ -3,6 +3,7 @@ numpy
 opencv-python
 torch >= 1.3
 matplotlib
+cython==0.29.16
 pycocotools
 tqdm
 Pillow
